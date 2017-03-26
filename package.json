@@ -8,7 +8,7 @@
   "author": "joneweng",
   "license": "ISC",
   "bin": {
-    "fullpath": "./bin/fullpath.js"
+    "realpath": "./bin/realpath.js"
   },
   "description": "get files real path",
   "repository": {
